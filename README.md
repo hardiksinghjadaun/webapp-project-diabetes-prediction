@@ -1,3 +1,7 @@
+#hardik sijngh jadaun
+#galgotias university
+#harxiksinghrajput33@gmail.com
+
 # Diabetes Prediction Using Machine Learning
 
 ## Project Description
